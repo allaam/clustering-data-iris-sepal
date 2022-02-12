@@ -1,0 +1,2 @@
+# clustering-data-iris-sepal
+perform data clustering, with a description of the data visualization that is analyzed on the data pattern, from clustering two algorithmic methods are used, namely K-Means and Hieracil Clustering with each data sharing using split validation and K-Fold, and also calculating the approach using the Euclidean method so that the obtained the value of SSE (Sum Square Error) and the value of the centroid in each data cluster.
